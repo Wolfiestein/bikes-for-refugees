@@ -95,7 +95,19 @@ p {
 
 /* Buttons */
 
-  /* INSERT BUTTON STYLES HERE */
+button {
+  background-color: red;
+  color: white;
+}
+
+.donate-btn {
+  background-color: chartreuse;
+  color: blue;
+}
+.volunteer{
+  background-color: blue;
+  color: darkgoldenrod;
+}
 
 
 /* Content */
